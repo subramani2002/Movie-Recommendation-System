@@ -33,7 +33,7 @@ Recommendation
        streamlit run app.py
 ```
 ### 6. Access the App:
-   Open your web browser and navigate to the provided local link (typically http://localhost:8501) to access the FaceMatch Bollywood web app.
+   Open your web browser and navigate to the provided local link (typically http://localhost:8501) to access the Movie Recommendation System.
 ### 7. Drop a Movie Name:
    Follow the on-screen instructions to Select a Movie Name. The app will show the Recommendations for the movie.
 
