@@ -4,9 +4,10 @@ The project involves creating a Movie Recommendation System using Natural Langua
 **Dataset Source:** https://www.kaggle.com/datasets/ahsanaseer/top-rated-tmdb-movies-10k
 # Real Time Demo:
 Interface
-![Screenshot 2024-01-10 204036](https://github.com/subramani2002/Bollywood-Celeb-Look-Alike/assets/67220838/c4052955-d1cd-474d-ba2f-0f443fe8575a)
+(![Screenshot 2024-02-12 170857](https://github.com/subramani2002/Movie-Recommendation-System/assets/67220838/9243b997-626a-4614-bf12-48cf7284fe7a)
+)
 Recommendation
-![Screenshot 2024-01-10 211207](https://github.com/subramani2002/Bollywood-Celeb-Look-Alike/assets/67220838/3749c47d-7c7a-4155-a8db-3c488294d200)
+![Screenshot 2024-02-12 170509](https://github.com/subramani2002/Movie-Recommendation-System/assets/67220838/fe861c4b-bc7a-489f-bd0c-d6f8c50b179f)
                                        
 # Steps to Run this Project:
 ### 1. Clone the Repository:
